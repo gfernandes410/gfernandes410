@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-<p align="center">
+I'm a full-stack developer working with Loopback 3, node.js, AngularJs, Oracle and AWS, also I'm studing React, Loopback 4 and mongoDB. I also do research on the work of distributed teams.
+
+<a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
+<a href="https://github.com/gfernandes410/cisars./blob/master/Artigo%20Gabriel%20Fernandes%20vs%202.3.pdf"><img src="https://img.shields.io/badge/papel-CISARS-lightgrey" alt="CISARS"></a>
+
+<!-- <p align="center">
 	<a href="https://github.com/terrytangyuan"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/TerryTangYuan"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
