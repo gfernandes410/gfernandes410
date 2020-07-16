@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack developer working with Loopback 3, node.js, AngularJs, Oracle and AWS, also I'm studing React, Loopback 4 and mongoDB. I also do research on the work of distributed teams.
-
+I'm a full-stack developer working with Loopback 3, node.js, AngularJs, Oracle and AWS, also I'm studing React, Loopback 4 and mongoDB. I also do research about communiction on distributed teams.
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
